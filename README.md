@@ -1,59 +1,78 @@
 ## Tag Dasar HTML
 
 - **Tag Heading h1 – h6**  
-  Contoh: `<h1> Ini Tag Heading </h1>`
+  ```html
+  <h1> Ini Tag Heading </h1>
 
 - **Tag Paragraph**  
-  Contoh: `<p> Ini Tag Paragraf </p>`
+  ```html
+  <p> Ini Tag Paragraf </p>
 
 - **Tag Bold**  
-  Contoh: `<b> Ini Teks Tebal </b>`
+  ```html
+  <b> Ini Teks Tebal </b>
 
 - **Tag Italic**  
-  Contoh: `<i> Ini Teks Miring </i>`
+  ```html
+  <i> Ini Teks Miring </i>
 
 - **Tag Superscript**  
-  Contoh: `<sup> Ini Superscript </sup>`
+  ```html
+  <sup> Ini Superscript </sup>
 
 - **Tag Subscript**  
-  Contoh: `<sub> Ini Subscript </sub>`
+  ```html
+  <sub> Ini Subscript </sub>
 
 - **Tag Strong**  
-  Contoh: `<strong> Ini Strong </strong>`
+  ```html
+  <strong> Ini Strong </strong>
 
 - **Tag Emphasized**  
-  Contoh: `<em> Ini Emphasized </em>`
+  ```html
+  <em> Ini Emphasized </em>
 
 - **Tag Anchor / Link**  
-  Contoh: `<a href="link"> Ini Tag Link </a>`
+  ```html
+  <a href="link"> Ini Tag Link </a>
 
 - **Tag Image**  
-  Contoh: `<img src="Folder" alt="Deskripsi gambar" />`
+  ```html
+  <img src="Folder" alt="Deskripsi gambar" />
 
 - **Tag Div**  
-  Contoh: `<div> Konten Besar </div>`
+  ```html
+  <div> Konten Besar </div>
 
 - **Tag Span**  
-  Contoh: `<span> Konten Penting </span>`
+  ```html
+  <span> Konten Penting </span>
 
 - **Tag Horizontal Rule**  
-  Contoh: `<hr>`
+  ```html
+  <hr>
 
 - **Tag Break Line**  
-  Contoh: `<br>`
+  ```html
+  <br>
 
 - **Tag Button**  
-  Contoh: `<button> Click Me </button>`
+  ```html
+  <button> Click Me </button>
 
 - **Tag Input**  
-  Contoh: `<input type="text">`  
-  (type bisa: radio, checkbox, submit, text, button)
+  ```html
+  <input type="text">
 
 - **Tag Form**  
-  Contoh: `<form> Konten Form </form>`
+  ```html
+  <form action="/submit" method="post">
+    <!-- Isi form di sini -->
+  </form>
 
 - **Tag Label**  
-  Contoh: `<label> Penanda </label>`
+  ```html
+  <label for="inputId"> Nama Field </label>
 
 - **Tag Video**  
   ```html
