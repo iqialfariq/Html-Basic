@@ -22,7 +22,7 @@
   Contoh: `<strong> Ini Strong </strong>`
 
 - **Tag Emphasized**  
-  Contoh: `<em> Ini Teks Miring </em>`
+  Contoh: `<em> Ini Emphasized </em>`
 
 - **Tag Anchor / Link**  
   Contoh: `<a href="link"> Ini Tag Link </a>`
