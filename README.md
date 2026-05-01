@@ -7,10 +7,10 @@
   Contoh: `<p> Ini Tag Paragraf </p>`
 
 - **Tag Bold**  
-  Contoh: `<b> Ini Teks tebal </b>`
+  Contoh: `<b> Ini Teks Tebal </b>`
 
 - **Tag Italic**  
-  Contoh: `<i> Ini Teks miring </i>`
+  Contoh: `<i> Ini Teks Miring </i>`
 
 - **Tag Superscript**  
   Contoh: `<sup> Ini Superscript </sup>`
@@ -22,19 +22,19 @@
   Contoh: `<strong> Ini Strong </strong>`
 
 - **Tag Emphasized**  
-  Contoh: `<em> Ini Teks tebal </em>`
+  Contoh: `<em> Ini Teks Miring </em>`
 
 - **Tag Anchor / Link**  
-  Contoh: `<a href="link"> Klik di sini </a>`
+  Contoh: `<a href="link"> Ini Tag Link </a>`
 
 - **Tag Image**  
   Contoh: `<img src="Folder" alt="Deskripsi gambar" />`
 
 - **Tag Div**  
-  Contoh: `<div> Konten besar </div>`
+  Contoh: `<div> Konten Besar </div>`
 
 - **Tag Span**  
-  Contoh: `<span> Konten penting </span>`
+  Contoh: `<span> Konten Penting </span>`
 
 - **Tag Horizontal Rule**  
   Contoh: `<hr>`
