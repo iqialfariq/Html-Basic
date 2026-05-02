@@ -1,4 +1,9 @@
-## Tag Dasar HTML
+# 💡 Penjelasan GIT 💡
+HTML (HyperText Markup Language): bahasa markah standar untuk membuat halaman web. Html sendiri ditemukan oleh **Tim Berners-Lee**. 
+
+---
+
+## 📌 Macam-macam Tag Html Dasar 📌
 
 - **Tag Heading h1 – h6**  
   ```html
