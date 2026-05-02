@@ -1,4 +1,4 @@
-# 💡 Penjelasan GIT 💡
+# 💡 Penjelasan HTML 💡
 HTML (HyperText Markup Language): bahasa markah standar untuk membuat halaman web. Html sendiri ditemukan oleh **Tim Berners-Lee**. 
 
 ---
