@@ -23,7 +23,7 @@ HTML (HyperText Markup Language): adalah bahasa markah standar untuk membuat hal
   <b> Ini Teks Tebal </b>
 ---  
 
-- **Tag Italic**
+- 🖊️ **Tag Italic**
   ```html
   <i> Ini Teks Miring </i>
 ---  
@@ -43,7 +43,7 @@ HTML (HyperText Markup Language): adalah bahasa markah standar untuk membuat hal
   <strong> Ini Strong </strong>
 ---  
 
-- **Tag Emphasized**
+- 🖊️ **Tag Emphasized**
   ```html
   <em> Ini Emphasized </em>
 ---  
@@ -98,12 +98,15 @@ HTML (HyperText Markup Language): adalah bahasa markah standar untuk membuat hal
 - 🏷️ **Tag Label**
   ```html
   <label for="inputId"> Nama Field </label>
+---  
 
 - 🎬 **Tag Video**
   ```html
   <video width="320" height="240" controls>
     <source src="movie.mp4" type="video/mp4">
   </video>
+---
+
 - 🎵 **Tag Audio**  
   ```html
   <audio controls>
