@@ -63,7 +63,7 @@ HTML (HyperText Markup Language): adalah bahasa markah standar untuk membuat hal
   <div> Konten Besar </div>
 ---  
 
-- **Tag Span**
+- 🔖 **Tag Span**
   ```html
   <span> Konten Penting </span>
 ---  
