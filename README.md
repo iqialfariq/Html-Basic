@@ -8,7 +8,7 @@ HTML (HyperText Markup Language): adalah bahasa markah standar untuk membuat hal
 ## 📌 Macam-macam Tag Html Dasar
 
 
-- **Tag Heading h1 – h6**📎  
+- 🔠 **Tag Heading h1 – h6**📎  
   ```html
   <h1> Ini Tag Heading </h1>
 
