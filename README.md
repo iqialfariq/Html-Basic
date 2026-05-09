@@ -5,116 +5,135 @@ HTML (HyperText Markup Language): adalah bahasa markah standar untuk membuat hal
 
 ---
 
-## 📌 Macam-macam Tag Html Dasar
+## 📌 Macam-macam Tag Html Dasae
 
-
-- 🔠 **Tag Heading h1 – h6**
+### 🔠 1. Tag Heading h1 – h6
   ```html
   <h1> Ini Tag Heading </h1>
+  ```
 ---  
 
-- 📜 **Tag Paragraph**
+### 📜 2. Tag Paragraph
   ```html
   <p> Ini Tag Paragraf </p>
+  ```
 ---  
 
-- 💪 **Tag Bold**
+### 💪 3. Tag Bold
   ```html
   <b> Ini Teks Tebal </b>
+  ```
 ---  
 
-- 🖊️ **Tag Italic**
+### 🖊️ 4. Tag Italic
   ```html
   <i> Ini Teks Miring </i>
+  ```
 ---  
 
-- 🔼 **Tag Superscript** 
+### 🔼 5. Tag Superscript
   ```html
   <sup> Ini Superscript </sup>
+  ```
 ---  
 
-- 🔽 **Tag Subscript**
+### 🔽 6. Tag Subscript
   ```html
   <sub> Ini Subscript </sub>
+  ```
 ---  
 
-- 🏋️ **Tag Strong**
+### 🏋️ 7. Tag Strong
   ```html
   <strong> Ini Strong </strong>
+  ```
 ---  
 
-- 🖊️ **Tag Emphasized**
+### 🖊️ 8. Tag Emphasized
   ```html
   <em> Ini Emphasized </em>
+  ```
 ---  
 
-- 🔗 **Tag Anchor / Link**
+### 🔗 9. Tag Anchor / Link
   ```html
   <a href="link"> Ini Tag Link </a>
+  ```
 ---  
 
-- 🖼️ **Tag Image**
+### 🖼️ 10. Tag Image
   ```html
   <img src="Folder" alt="Deskripsi gambar" />
+  ```
 ---  
 
-- 📦 **Tag Div**
+### 📦 11. Tag Div
   ```html
   <div> Konten Besar </div>
+  ```
 ---  
 
-- 🔖 **Tag Span**
+### 🔖 12. Tag Span
   ```html
   <span> Konten Penting </span>
+  ```
 ---  
 
-- ➖ **Tag Horizontal Rule**  
+### ➖ 13. Tag Horizontal Rule
   ```html
   <hr>
+  ```
 ---  
 
-- ↩️ **Tag Break Line**
+### ↩️ 14. Tag Break Line
   ```html
   <br>
+  ```
 ---  
 
-- 🔘 **Tag Button**
+### 🔘 15. Tag Button
   ```html
   <button> Click Me </button>
+  ```
 ---  
 
-- 🔤 **Tag Input**
+### 🔤 16. Tag Input
   ```html
   <input type="text">
+  ```
 ---  
 
-- 📝 **Tag Form**  
+### 📝 17. Tag Form
   ```html
   <form action="/submit" method="post">
     <!-- Isi form di sini -->
   </form>
+  ```
 ---
 
-- 🏷️ **Tag Label**
+### 🏷️ 18. Tag Label
   ```html
   <label for="inputId"> Nama Field </label>
+  ```
 ---  
 
-- 🎬 **Tag Video**
+### 🎬 19. Tag Video
   ```html
   <video width="320" height="240" controls>
     <source src="movie.mp4" type="video/mp4">
   </video>
+  ```
 ---
 
-- 🎵 **Tag Audio**  
+### 🎵 20. Tag Audio 
   ```html
   <audio controls>
     <source src="horse.ogg" type="audio/ogg">
   </audio>
+  ```
 ---  
 
-- 📋 **Tag List**
+### 📋 21. Tag List
   Unorder vs Order List  
 
   ```html
@@ -127,9 +146,10 @@ HTML (HyperText Markup Language): adalah bahasa markah standar untuk membuat hal
     <li> Order List </li>
     <li> Order List </li>
   </ol>
+  ```
 ---
 
-- 📊 **Tag Table**  
+### 📊 21. Tag Table 
   Colspan: Menggabungkan beberapa kolom  
   Rowspan: Menggabungkan beberapa baris  
 
@@ -146,3 +166,4 @@ HTML (HyperText Markup Language): adalah bahasa markah standar untuk membuat hal
       <td> Table Data </td>
     </tr>
   </table>
+  ```
