@@ -149,7 +149,7 @@ HTML (HyperText Markup Language): adalah bahasa markah standar untuk membuat hal
   ```
 ---
 
-### 📊 21. Tag Table 
+### 📊 22. Tag Table 
   Colspan: Menggabungkan beberapa kolom  
   Rowspan: Menggabungkan beberapa baris  
 
