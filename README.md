@@ -6,7 +6,9 @@ HTML (HyperText Markup Language): adalah bahasa markah standar untuk membuat hal
 ---
 
 ## Anatomi Html
+```
 <tag-pembuka atribut="value"> Konten </tag-penutup>
+```
 ---
 
 ## 📌 Macam-macam Tag Html
